@@ -1,5 +1,5 @@
 # multiscreen
-<IMG  SRC="[https://www.tradesir.com/img/proxymain_en.png](https://www.tradesir.com/multiscreen/Screens.png)" BORDER="0" ALT="">
+<IMG  SRC="https://www.tradesir.com/multiscreen/Screens.png" BORDER="0" ALT="">
 Kiro 多屏指纹浏览器是一款专为跨境电商和多媒体营销量身打造的一屏多窗浏览器，Kiro 旨在大幅提升您的工作效率。 
 
 在当今瞬息万变的数字世界中，无论是跨境电商的卖家，多媒体运营的专业人士，还是需要进行多渠道交流和监控的团队，都面临使用多个账号提升工作效率以及规避账号关联风险的挑战。Kiro 多屏指纹浏览器正是为解决这些痛点而生，它将您的电脑屏幕变成一个功能强大的多任务处理中心，让您轻松驾驭复杂的工作场景。
