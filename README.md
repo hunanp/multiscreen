@@ -22,7 +22,7 @@ Kiro 多屏指纹浏览器不仅提供了出色的账号隔离和管理功能，
 实时网速与流量统计： 显示即时网速和流量统计（需要代理终端支持），助您实时掌握网络状况。
 无论您是需要进行跨境电商的多店铺运营，进行多媒体营销的多平台内容发布，还是在多频道交流、多通道监控、多屏演示文稿、IP 或账户隔离、自动化浏览等场景下追求效率，Kiro 多屏指纹浏览器都能成为您不可或缺的强大工具。
 
-<a href="https://www.tradesir.com/multiscreen/en"> 多屏指纹浏览器介绍 </a> .  <a href="https://www.tradesir.com/Download/Multiscreens.zip">试用版下载</a><br /><br />
+<a href="https://www.tradesir.com/multiscreen/cn"> 多屏指纹浏览器介绍 </a> .  <a href="https://www.tradesir.com/Download/Multiscreens.zip">试用版下载</a><br /><br />
 
 Kiro Multi-Screen Fingerprint Browser: Your Multi-Account Management Expert
 Kiro Multi-Screen Fingerprint Browser is a multi-user browser specifically designed for cross-border e-commerce and multimedia marketing. Kiro aims to significantly boost your work efficiency and provide excellent security for multi-account management.
